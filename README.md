@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,8 +44,10 @@
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
