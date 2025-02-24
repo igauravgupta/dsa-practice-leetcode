@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
@@ -43,11 +44,17 @@
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
