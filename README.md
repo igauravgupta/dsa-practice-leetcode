@@ -37,6 +37,7 @@
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [2195-time-needed-to-buy-tickets](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0402-remove-k-digits) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
