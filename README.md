@@ -61,9 +61,18 @@
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0969-number-of-recent-calls) |
 | [2195-time-needed-to-buy-tickets](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
