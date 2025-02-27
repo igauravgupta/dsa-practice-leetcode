@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0969-number-of-recent-calls) |
 | [2195-time-needed-to-buy-tickets](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
