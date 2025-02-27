@@ -45,6 +45,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0402-remove-k-digits) |
@@ -74,6 +75,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0969-number-of-recent-calls) |
