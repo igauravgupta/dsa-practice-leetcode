@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2195-time-needed-to-buy-tickets](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -52,6 +53,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
@@ -59,6 +61,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Greedy
