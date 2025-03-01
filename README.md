@@ -41,6 +41,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2195-time-needed-to-buy-tickets](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2551-apply-operations-to-an-array](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2551-apply-operations-to-an-array](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Design
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/0969-number-of-recent-calls) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/igauravgupta/dsa-practice-leetcode/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
